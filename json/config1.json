@@ -1,5 +1,5 @@
 {
-  "spider": "../jar/spider.jar;md5;f7455695682bd0f4607a8a094839b7c9",
+  "spider": "../jar/spider.jar",
   "sites": [
     {
       "key": "Douban",
